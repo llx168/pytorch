@@ -1,0 +1,12 @@
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+
+envs_dirs:
+  - E:\software\anaconda3\envs
+
+show_channel_urls: true
+
+remote_read_timeout_secs: 600.0
